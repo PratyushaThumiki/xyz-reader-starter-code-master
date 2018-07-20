@@ -9,7 +9,7 @@
     android:clickable="true"
     android:focusable="true"
     android:foreground="?selectableItemBackground"
-    app:cardElevation="4dp"
+    app:cardElevation="1dp"
     >
 
     <LinearLayout
@@ -36,7 +36,7 @@
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
             android:paddingTop="16dp"
-            android:textColor="@color/darkblue" />
+            android:textColor="@color/text_color" />
 
         <TextView
             android:id="@+id/article_subtitle"

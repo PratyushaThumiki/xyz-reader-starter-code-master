@@ -27,7 +27,7 @@
             android:id="@+id/action_up"
             android:layout_width="56dp"
             android:layout_height="?actionBarSize"
-            android:background="@color/theme_primary_dark"
+            android:background="@color/theme_primary"
             android:contentDescription="@string/up"
             android:src="@drawable/ic_arrow_back"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
